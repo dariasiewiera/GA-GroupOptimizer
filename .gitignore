@@ -1,0 +1,92 @@
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2017 and newer
+.vs/
+*.VC.db
+*.opendb
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.cbp
+*.depend
+*.dir
+*.files
+*.kdev4
+*.project
+*.pro.user
+
+# Build output
+build/
+cmake-build-debug/
+cmake-build-release/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+dist/
+out/
+
+# C++ build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.obj
+*.ko
+*.lo
+*.la
+*.lib
+*.dll
+*.app
+*.i*
+*.s
+*.gch
+*.pch
+*.dep
+*.d
+*.class
+
+# Qt specific
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
+*.qm
+*.prl
+
+
+# Temporary files
+*.bak
+*.orig
+*.rej
+*~
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
